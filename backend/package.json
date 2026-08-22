@@ -1,0 +1,14 @@
+{
+  "name": "ai-observability-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Barebones Express backend for the AI Observability project.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

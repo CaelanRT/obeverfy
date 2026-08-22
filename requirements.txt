@@ -1,0 +1,5 @@
+# Keep supabase reasonably current -- older versions predate support for
+# the new sb_publishable_/sb_secret_ API key format.
+supabase
+python-dotenv
+pytest
